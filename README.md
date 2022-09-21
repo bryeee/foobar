@@ -101,7 +101,7 @@ To run this project, you will need to update the following environment variables
 | Request Headers                 | 
 | :--------                       |
 | `Accept: application/json`      | 
-| `Authorization: Bearer {token}` | 
+| `Authorization: Bearer {token from login api}` | 
 
 *body raw json*
 ```
@@ -123,7 +123,7 @@ To run this project, you will need to update the following environment variables
 | Request Headers                 | 
 | :--------                       |
 | `Accept: application/json`      | 
-| `Authorization: Bearer {token}` | 
+| `Authorization: Bearer {token from login api}` | 
 
 ### Bonus Challenge
 
